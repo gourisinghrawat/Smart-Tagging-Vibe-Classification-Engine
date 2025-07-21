@@ -1,6 +1,6 @@
 # 🧠 Smart Tagging & Vibe Classification Engine
 
-A Computer Graphics and AI-powered system designed to extract fashion-related insights from videos by leveraging YOLOv8 object detection and vibe classification based on frame analysis.
+AI-powered system designed to extract fashion-related insights from videos by leveraging YOLOv8 object detection and vibe classification based on frame analysis.
 
 ## 🚀 Features
 
@@ -80,10 +80,3 @@ jupyter notebook detector_yolo.ipynb
 - Integrate vibe classification using CLIP
 - Build web UI for upload and visualization
 
-## 📜 License
-
-MIT License
-
----
-
-> 💡 Developed as a Computer Graphics project using deep learning and computer vision.
