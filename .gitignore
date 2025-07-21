@@ -1,0 +1,61 @@
+
+frames/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Compiled Cython files
+*.c
+*.so
+
+# VSCode settings
+.vscode/
+
+# Model files
+*.pt
+models/
+*.onnx
+
+# Large or derived data files
+data/videos/
+data/output/
+data/*.zip
+data/*.xlsx
+data/*.csv
+frames/
+
+# Media
+*.mp4
+*.jpg
+*.json.xz
+*.txt
+
+# Ignore backup or temp files
+*~
+*.bak
+*.tmp
